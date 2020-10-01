@@ -1,7 +1,7 @@
 package com.cybertek;
 
-import com.cybertek.Utilities.ConfigurationReader;
-import com.cybertek.Utilities.Driver;
+import com.cybertek.utilities.ConfigurationReader;
+import com.cybertek.utilities.Driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;

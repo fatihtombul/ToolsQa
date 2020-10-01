@@ -1,7 +1,7 @@
 package com.cybertek.Pages;
 
 import com.cybertek.TestBase;
-import com.cybertek.Utilities.Driver;
+import com.cybertek.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
